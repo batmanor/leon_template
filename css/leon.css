@@ -438,6 +438,9 @@ body {
   margin-left: 10px;
   color: var(--secondary-color);
 }
+.contact .social span {
+  letter-spacing: -1px;
+}
 @media (max-width: 767px) {
   .contact .info .label,
   .contact .info .link {
